@@ -12,4 +12,4 @@ function animateTitle(Title, delay) {
     }, delay)
 }
   
-  animateTitle('fope.codes', 300);
+  animateTitle('fope.me', 300);
