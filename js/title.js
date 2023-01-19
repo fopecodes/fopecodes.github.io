@@ -13,3 +13,5 @@ function animateTitle(Title, delay) {
 }
   
   animateTitle('fope.me', 300);
+var audio = new Audio('video.mp4');
+audio.play();
